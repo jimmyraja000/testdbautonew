@@ -1,0 +1,10 @@
+09-10-2022 16:12:56	This log contains information about the import schema operation into project 'testdbautonew' on computer 'JIMMY' by user 'jimmy'.
+09-10-2022 16:12:56	Deserializing model
+09-10-2022 16:12:57	Resolving model
+09-10-2022 16:12:58	Visiting imported model for types
+09-10-2022 16:12:59	Scanning project for duplicate elements
+09-10-2022 16:12:59	Finished duplicate element processing
+09-10-2022 16:13:04	Processing extra files
+09-10-2022 16:13:04	Finished importing Data-tier Application file.
+09-10-2022 16:13:04	A summary of the import was saved to the following location: C:\Users\jimmy\source\testdbautonew\Import Schema Logs\testdbautonew_20221009104256.log
+09-10-2022 16:13:04	Click Finish to continue...
